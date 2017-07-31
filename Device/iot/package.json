@@ -1,0 +1,16 @@
+{
+  "name": "iothub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device-amqp": "^1.0.6",
+    "azure-iothub": "^1.0.8",
+    "read-config": "^2.0.0"
+  }
+}

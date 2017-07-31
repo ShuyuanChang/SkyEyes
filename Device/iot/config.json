@@ -1,0 +1,3 @@
+{
+  "iotHubConnectionString": "HostName={hostname}.azure-devices.net;DeviceId={device-name};SharedAccessKey={key}"
+}
